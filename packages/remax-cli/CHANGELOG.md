@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.13.4](https://github.com/remaxjs/remax/compare/v2.13.3...v2.13.4) (2021-05-31)
+
+### Bug Fixes
+
+- 修复 watch 模式下 app.config 配置不更新的问题 ([#1546](https://github.com/remaxjs/remax/issues/1546)) ([b0bcdc4](https://github.com/remaxjs/remax/commit/b0bcdc4c4b0fffa4e733c5ff06711435a711960d))
+
+## [2.13.3](https://github.com/remaxjs/remax/compare/v2.13.2...v2.13.3) (2021-05-25)
+
+**Note:** Version bump only for package @remax/cli
+
+## [2.13.2](https://github.com/remaxjs/remax/compare/v2.13.1...v2.13.2) (2021-05-19)
+
+### Bug Fixes
+
+- **web:** 修复内部 css 优先级比项目 css 高的问题 ([806bed9](https://github.com/remaxjs/remax/commit/806bed9ed70fe8ec2d839c59da6003b648edb83a))
+- **wechat:** 同步微信小程序组件到最新版本 ([#1576](https://github.com/remaxjs/remax/issues/1576)) ([fd47e56](https://github.com/remaxjs/remax/commit/fd47e56c7c3a995bd7aa2f336f7d30f299bc92ac))
+
+## [2.13.1](https://github.com/remaxjs/remax/compare/v2.13.0...v2.13.1) (2021-04-22)
+
+**Note:** Version bump only for package @remax/cli
+
+# [2.13.0](https://github.com/remaxjs/remax/compare/v2.12.1...v2.13.0) (2021-04-19)
+
+### Bug Fixes
+
+- **wechat:** 修复 onShareTimeline 不工作的问题([#1521](https://github.com/remaxjs/remax/issues/1521)) ([2a45117](https://github.com/remaxjs/remax/commit/2a4511746481e386369d488ac7dc349b7769686a))
+- **wechat:** 引用三方 plugin 时误报错 ([#1529](https://github.com/remaxjs/remax/issues/1529)) ([1e6af3e](https://github.com/remaxjs/remax/commit/1e6af3e43e649c6ec2e22573aab159a63393509c))
+- **wechat:** 添加 Textarea 组件 confirmType、confirmHold 类型 (remaxjs[#1532](https://github.com/remaxjs/remax/issues/1532)) ([#1533](https://github.com/remaxjs/remax/issues/1533)) ([b1f8b85](https://github.com/remaxjs/remax/commit/b1f8b85b671ffcd34f65a963412a35cc3260f914))
+
+## [2.12.1](https://github.com/remaxjs/remax/compare/v2.12.0...v2.12.1) (2021-04-09)
+
+**Note:** Version bump only for package @remax/cli
+
 # [2.12.0](https://github.com/remaxjs/remax/compare/v2.11.8...v2.12.0) (2021-04-07)
 
 ### Features

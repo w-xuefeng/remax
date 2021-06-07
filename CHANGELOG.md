@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.13.4](https://github.com/remaxjs/remax/compare/v2.13.3...v2.13.4) (2021-05-31)
+
+### Bug Fixes
+
+- 修复 watch 模式下 app.config 配置不更新的问题 ([#1546](https://github.com/remaxjs/remax/issues/1546)) ([b0bcdc4](https://github.com/remaxjs/remax/commit/b0bcdc4c4b0fffa4e733c5ff06711435a711960d))
+- 修复使用 react-devtools 无法显示小程序组件名称 ([#1585](https://github.com/remaxjs/remax/issues/1585)) ([ee42cc1](https://github.com/remaxjs/remax/commit/ee42cc181742d0c022f457963e7ddb8564bc038d)), closes [#1563](https://github.com/remaxjs/remax/issues/1563)
+- 修复子组件的 onShow 中改变状态导致父组件 onShow 不执行的问题 ([e93789f](https://github.com/remaxjs/remax/commit/e93789fad32b14f501b294ef23ab0af3f021a4cb)), closes [#1564](https://github.com/remaxjs/remax/issues/1564)
+
+## [2.13.3](https://github.com/remaxjs/remax/compare/v2.13.2...v2.13.3) (2021-05-25)
+
+### Bug Fixes
+
+- **wechat:** 修复 page-meta、navigation-bar 组件渲染错误 ([#1583](https://github.com/remaxjs/remax/issues/1583)) ([a8d21f5](https://github.com/remaxjs/remax/commit/a8d21f543598477cbda9a01c3178f6d294e7d977))
+
+## [2.13.2](https://github.com/remaxjs/remax/compare/v2.13.1...v2.13.2) (2021-05-19)
+
+### Bug Fixes
+
+- **web:** 修复内部 css 优先级比项目 css 高的问题 ([806bed9](https://github.com/remaxjs/remax/commit/806bed9ed70fe8ec2d839c59da6003b648edb83a))
+- **wechat:** 同步微信小程序组件到最新版本 ([#1576](https://github.com/remaxjs/remax/issues/1576)) ([fd47e56](https://github.com/remaxjs/remax/commit/fd47e56c7c3a995bd7aa2f336f7d30f299bc92ac))
+- 修复 web 端找不到 react-router-dom 的问题 ([748f6c6](https://github.com/remaxjs/remax/commit/748f6c6587a7a4b4bb091b10ec3c64e08174db19))
+
+## [2.13.1](https://github.com/remaxjs/remax/compare/v2.13.0...v2.13.1) (2021-04-22)
+
+### Bug Fixes
+
+- 修复插件环境没有 getApp 导致的报错 ([7a4daf2](https://github.com/remaxjs/remax/commit/7a4daf2c864d318d5f5924295447e8b9d1c35df9))
+
+# [2.13.0](https://github.com/remaxjs/remax/compare/v2.12.1...v2.13.0) (2021-04-19)
+
+### Bug Fixes
+
+- **wechat:** 修复 onShareTimeline 不工作的问题([#1521](https://github.com/remaxjs/remax/issues/1521)) ([2a45117](https://github.com/remaxjs/remax/commit/2a4511746481e386369d488ac7dc349b7769686a))
+- **wechat:** 引用三方 plugin 时误报错 ([#1529](https://github.com/remaxjs/remax/issues/1529)) ([1e6af3e](https://github.com/remaxjs/remax/commit/1e6af3e43e649c6ec2e22573aab159a63393509c))
+- **wechat:** 添加 Textarea 组件 confirmType、confirmHold 类型 (remaxjs[#1532](https://github.com/remaxjs/remax/issues/1532)) ([#1533](https://github.com/remaxjs/remax/issues/1533)) ([b1f8b85](https://github.com/remaxjs/remax/commit/b1f8b85b671ffcd34f65a963412a35cc3260f914))
+
+### Features
+
+- 支持 React 17 ([#1527](https://github.com/remaxjs/remax/issues/1527)) ([7844089](https://github.com/remaxjs/remax/commit/7844089673d5188c10366833d03b8da58ff85f9d))
+
+## [2.12.1](https://github.com/remaxjs/remax/compare/v2.12.0...v2.12.1) (2021-04-09)
+
+### Bug Fixes
+
+- 修复不兼容 Android 6.0 的问题 ([b77e4b8](https://github.com/remaxjs/remax/commit/b77e4b8b49db5e7ca6e98397499e52f7c03ea1a3)), closes [#1522](https://github.com/remaxjs/remax/issues/1522)
+
 # [2.12.0](https://github.com/remaxjs/remax/compare/v2.11.8...v2.12.0) (2021-04-07)
 
 ### Bug Fixes

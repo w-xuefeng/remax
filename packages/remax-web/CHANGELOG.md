@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.13.4](https://github.com/remaxjs/remax/compare/v2.13.3...v2.13.4) (2021-05-31)
+
+**Note:** Version bump only for package @remax/web
+
+## [2.13.3](https://github.com/remaxjs/remax/compare/v2.13.2...v2.13.3) (2021-05-25)
+
+**Note:** Version bump only for package @remax/web
+
+## [2.13.2](https://github.com/remaxjs/remax/compare/v2.13.1...v2.13.2) (2021-05-19)
+
+### Bug Fixes
+
+- 修复 web 端找不到 react-router-dom 的问题 ([748f6c6](https://github.com/remaxjs/remax/commit/748f6c6587a7a4b4bb091b10ec3c64e08174db19))
+
+## [2.13.1](https://github.com/remaxjs/remax/compare/v2.13.0...v2.13.1) (2021-04-22)
+
+**Note:** Version bump only for package @remax/web
+
+# [2.13.0](https://github.com/remaxjs/remax/compare/v2.12.1...v2.13.0) (2021-04-19)
+
+**Note:** Version bump only for package @remax/web
+
+## [2.12.1](https://github.com/remaxjs/remax/compare/v2.12.0...v2.12.1) (2021-04-09)
+
+**Note:** Version bump only for package @remax/web
+
 # [2.12.0](https://github.com/remaxjs/remax/compare/v2.11.8...v2.12.0) (2021-04-07)
 
 **Note:** Version bump only for package @remax/web

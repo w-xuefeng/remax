@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.13.4](https://github.com/remaxjs/remax/compare/v2.13.3...v2.13.4) (2021-05-31)
+
+**Note:** Version bump only for package babel-plugin-remax-lifecycle
+
+## [2.13.3](https://github.com/remaxjs/remax/compare/v2.13.2...v2.13.3) (2021-05-25)
+
+**Note:** Version bump only for package babel-plugin-remax-lifecycle
+
+## [2.13.2](https://github.com/remaxjs/remax/compare/v2.13.1...v2.13.2) (2021-05-19)
+
+**Note:** Version bump only for package babel-plugin-remax-lifecycle
+
+## [2.13.1](https://github.com/remaxjs/remax/compare/v2.13.0...v2.13.1) (2021-04-22)
+
+**Note:** Version bump only for package babel-plugin-remax-lifecycle
+
+# [2.13.0](https://github.com/remaxjs/remax/compare/v2.12.1...v2.13.0) (2021-04-19)
+
+### Bug Fixes
+
+- **wechat:** 修复 onShareTimeline 不工作的问题([#1521](https://github.com/remaxjs/remax/issues/1521)) ([2a45117](https://github.com/remaxjs/remax/commit/2a4511746481e386369d488ac7dc349b7769686a))
+
+## [2.12.1](https://github.com/remaxjs/remax/compare/v2.12.0...v2.12.1) (2021-04-09)
+
+**Note:** Version bump only for package babel-plugin-remax-lifecycle
+
 # [2.12.0](https://github.com/remaxjs/remax/compare/v2.11.8...v2.12.0) (2021-04-07)
 
 **Note:** Version bump only for package babel-plugin-remax-lifecycle
